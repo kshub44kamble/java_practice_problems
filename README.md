@@ -1,2 +1,2 @@
 # java_practice_problems
-Java Practice Problems
+Java Course Udemy
